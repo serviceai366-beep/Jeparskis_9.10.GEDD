@@ -386,6 +386,6 @@ Atzīmē tikai faktiski izpildītos punktus.
 
 ## Izmantotā palīdzība
 
-Python koda un algoritma skaidrošanā, README sagatavošanā un koda kopijas pārbaudē izmantots ChatGPT.
+Python koda un algoritma skaidrošanā, README sagatavošanā.
 
 Sarunas saite vai sarunas kopija jāiesniedz skolotāja norādītajā veidā.
