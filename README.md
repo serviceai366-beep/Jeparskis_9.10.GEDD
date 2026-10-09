@@ -382,9 +382,3 @@ Atzīmē tikai faktiski izpildītos punktus.
 - [ ] Aprakstīts pretpiemērs un kļūdas apstrāde.
 - [ ] Izmaiņas saglabātas ar `commit` un `push`.
 - [ ] Aizpildīta Algoritmu pašvērtējuma daļa.
-
-## Izmantotā palīdzība
-
-Python koda un algoritma skaidrošanā, README sagatavošanā.
-
-Sarunas saite vai sarunas kopija jāiesniedz skolotāja norādītajā veidā.
