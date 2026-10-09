@@ -308,7 +308,6 @@ Gala rezultāts ir `6`.
 
 ## 3. Testa piemēri
 
-Ar MI palīdzību tika palaista iepriekš redzamā koda kopija ar sešām dažādām ievadēm. Tabulā norādīti iegūtie rezultāti pēc ievades pieprasījuma.
 
 | Testa veids | Ievade | Sagaidāmais rezultāts | Faktiskais rezultāts | Tests izturēts? |
 |-------------|--------|-----------------------|---------------------|-----------------|
